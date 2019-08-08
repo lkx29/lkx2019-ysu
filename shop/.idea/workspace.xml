@@ -33,52 +33,54 @@
     <session id="-237799017">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="0-SNAPSHOT" value="1" />
-          <entry key="class" value="3" />
-          <entry key="java" value="66" />
-          <entry key="jsp" value="10" />
-          <entry key="properties" value="3" />
+          <entry key="class" value="14" />
+          <entry key="java" value="168" />
+          <entry key="jsp" value="55" />
+          <entry key="properties" value="5" />
           <entry key="tld" value="1" />
-          <entry key="xml" value="30" />
+          <entry key="xml" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="66" />
-          <entry key="JSP" value="10" />
-          <entry key="Properties" value="3" />
+          <entry key="CLASS" value="14" />
+          <entry key="JAVA" value="168" />
+          <entry key="JSP" value="55" />
+          <entry key="Properties" value="5" />
           <entry key="UML" value="1" />
-          <entry key="XML" value="31" />
+          <entry key="XML" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="2836" />
-          <entry key="jsp" value="562" />
-          <entry key="properties" value="18" />
-          <entry key="xml" value="346" />
+          <entry key="java" value="4355" />
+          <entry key="jsp" value="1316" />
+          <entry key="properties" value="19" />
+          <entry key="xml" value="561" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2836" />
-          <entry key="JSP" value="562" />
+          <entry key="JAVA" value="4355" />
+          <entry key="JSP" value="1316" />
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Properties" value="18" />
-          <entry key="SQL" value="9" />
-          <entry key="XML" value="337" />
+          <entry key="Properties" value="19" />
+          <entry key="SQL" value="28" />
+          <entry key="XML" value="533" />
         </counts>
       </usages-collector>
     </session>
@@ -86,40 +88,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/service/IUserService.java">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/productupdate.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/dao/UserInfoMapper.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/controller/UploadController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/pojo/UserInfo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1050">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
+            <state relative-caret-position="-516" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/controller/ManagerController.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="393">
+              <caret line="196" column="17" selection-start-line="196" selection-start-column="17" selection-end-line="196" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/controller/ProductController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="46" column="42" lean-forward="true" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,58 +125,51 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/categoryupdate.jsp">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/annotation/AnnotationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="42">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/upload.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/userinfoupdate.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" selection-start-line="13" selection-end-line="24" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/userinfolist.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="638">
-              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+              <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/managerlist.jsp">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/userinfoadd.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="903">
-              <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/pojo/Category.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2352">
-              <caret line="153" column="33" selection-start-line="153" selection-start-column="33" selection-end-line="153" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/categorylist.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="37" column="12" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="37" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/controller/CategoryController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="273">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -191,8 +181,8 @@
       <list>
         <option value="Tag Library Descriptor" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -200,36 +190,48 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/consts/Const.java" />
         <option value="$PROJECT_DIR$/src/main/resources/MyBatisConfig.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/controller/CategoryCollector.java" />
         <option value="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/dao/ProductMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/exception/MyExceptionHandlerResolver.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/service/Impl/CategoryService.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/categorylist.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/service/ICategoryService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/pojo/Category.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/dao/CategoryMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/service/Impl/CategoryServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/com/neuedu/dao/CategoryMapper.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/controller/CategoryController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/filter/UserFilter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/controller/UserCollector.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/dao/UserInfoMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/com/neuedu/dao/UserInfoMapper.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/springmvc.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/service/IUserService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/service/Impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/interceptors/AuthorityInterceptor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/service/IManagerService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/service/Impl/ManagerServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/categoryupdate.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/managerlist.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/controller/ManagerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/dao/CategoryMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/interceptors/AuthorityInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/categoryadd.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/exception/MyExceptionHandlerResolver.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/categorylist.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/service/Impl/CategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/neuedu/dao/CategoryMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/categoryupdate.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/controller/CategoryController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/userinfoupdate.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/userinfoadd.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/userinfolist.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/service/IUserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/service/Impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/dao/UserInfoMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/neuedu/dao/UserInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/controller/UserCollector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/service/IProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/service/Impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/productupdate.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/dao/ProductMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/neuedu/dao/ProductMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/productadd.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/productlist.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -275,9 +277,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="955" />
-    <option name="width" value="980" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="291" />
+    <option name="y" value="28" />
+    <option name="width" value="1270" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -698,6 +701,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -790,6 +794,25 @@
               <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="neuedu" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="neuedu" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="Impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -824,40 +847,17 @@
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
               <item name="jsp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-webmvc:5.1.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-webmvc:5.1.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-webmvc-5.1.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-webmvc:5.1.0.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-webmvc-5.1.0.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565139025038" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565232167944" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -867,6 +867,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.neuedu.controller" />
       <recent name="com.neuedu.interceptors" />
       <recent name="com.neuedu.filter" />
     </key>
@@ -979,11 +980,15 @@
       <workItem from="1565099895955" duration="8801000" />
       <workItem from="1565108926563" duration="1641000" />
       <workItem from="1565137318847" duration="1706000" />
+      <workItem from="1565139635545" duration="30743000" />
+      <workItem from="1565184527631" duration="4349000" />
+      <workItem from="1565224093373" duration="45000" />
+      <workItem from="1565224289673" duration="4086000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33320000" />
+    <option name="totallyTimeSpent" value="72543000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -995,10 +1000,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="534" y="0" width="781" height="830" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24597855" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43706778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -1008,20 +1013,20 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36260623" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.265043" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295129" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.203966" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32719547" />
-      <window_info anchor="bottom" id="Spring" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="调试" order="15" weight="0.36685553" />
+      <window_info anchor="bottom" id="调试" order="15" weight="0.35410765" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1044,615 +1049,36 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/resources/com/neuedu/Dao/IDeptDao.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com/neuedu/Dao/IDeptDao.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.tld" />
-    <entry file="uml://MAVEN/com.neuedu:servlet-spring:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.neuedu:servlet-spring:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="749.277083333333" y="600.0">com.neuedu:servlet-spring:1.0-SNAPSHOT</node>
-            <node x="1207.6444444444444" y="440.0">junit:junit:jar:4.11</node>
-            <node x="1178.1444444444444" y="350.0">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
-            <node x="584.1666666666667" y="350.0">org.springframework:spring-context:jar:5.1.0.RELEASE</node>
-            <node x="579.5416666666667" y="270.0">org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-aop:jar:5.1.0.RELEASE</node>
-            <node x="355.5194444444444" y="180.0">org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-beans:jar:5.1.0.RELEASE</node>
-            <node x="518.008333333333" y="80.0">org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-core:jar:5.1.0.RELEASE</node>
-            <node x="525.008333333333" y="0.0">org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-core:jar:5.1.0.RELEASE/org.springframework:spring-jcl:jar:5.1.0.RELEASE</node>
-            <node x="697.4166666666667" y="270.0">org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-expression:jar:5.1.0.RELEASE</node>
-            <node x="460.5416666666667" y="270.0">org.springframework:spring-web:jar:5.1.0.RELEASE</node>
-            <node x="555.0687499999998" y="440.0">org.springframework:spring-webmvc:jar:5.1.0.RELEASE</node>
-            <node x="1015.6444444444444" y="440.0">org.mybatis.generator:mybatis-generator-core:jar:1.3.2</node>
-            <node x="1284.6444444444446" y="440.0">javax.servlet:javax.servlet-api:jar:3.1.0</node>
-            <node x="348.5416666666667" y="440.0">javax.servlet:jstl:jar:1.2</node>
-            <node x="1544.6187499999996" y="350.0">javax.servlet.jsp.jstl:jstl-api:jar:1.2</node>
-            <node x="1476.1409722222218" y="270.0">javax.servlet.jsp.jstl:jstl-api:jar:1.2/javax.servlet:servlet-api:jar:2.5</node>
-            <node x="1592.8687499999996" y="270.0">javax.servlet.jsp.jstl:jstl-api:jar:1.2/javax.servlet.jsp:jsp-api:jar:2.1</node>
-            <node x="1532.6444444444446" y="440.0">org.glassfish.web:jstl-impl:jar:1.2</node>
-            <node x="1429.6444444444446" y="440.0">taglibs:standard:jar:1.1.2</node>
-            <node x="726.2770833333332" y="440.0">mysql:mysql-connector-java:jar:5.1.47</node>
-            <node x="416.5416666666667" y="440.0">org.mybatis:mybatis:jar:3.5.2</node>
-            <node x="0.0" y="440.0">log4j:log4j:jar:1.2.17</node>
-            <node x="1658.9937499999996" y="350.0">org.apache.logging.log4j:log4j-api:jar:2.3</node>
-            <node x="1683.2437499999996" y="440.0">org.apache.logging.log4j:log4j-core:jar:2.3</node>
-            <node x="1795.2437499999996" y="440.0">org.mybatis:mybatis-spring:jar:1.3.0</node>
-            <node x="935.6444444444444" y="440.0">com.mchange:c3p0:jar:0.9.5</node>
-            <node x="878.1444444444444" y="350.0">com.mchange:c3p0:jar:0.9.5/com.mchange:mchange-commons-java:jar:0.2.9</node>
-            <node x="243.54166666666663" y="270.0">org.springframework:spring-tx:jar:5.1.0.RELEASE</node>
-            <node x="288.5416666666667" y="350.0">org.springframework:spring-jdbc:jar:5.1.0.RELEASE</node>
-            <node x="81.0" y="440.0">commons-fileupload:commons-fileupload:jar:1.3</node>
-            <node x="147.75" y="350.0">commons-io:commons-io:jar:2.2</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="org.springframework:spring-webmvc:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE">
-              <point x="10.166666666666657" y="-15.0" />
-              <point x="626.2354166666664" y="420.0" />
-              <point x="613.6666666666667" y="420.0" />
-              <point x="-29.5" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="mysql:mysql-connector-java:jar:5.1.47">
-              <point x="1.1368683772161603E-13" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="javax.servlet:javax.servlet-api:jar:3.1.0">
-              <point x="21.333333333333485" y="-15.0" />
-              <point x="826.6104166666665" y="520.0" />
-              <point x="1347.1444444444446" y="520.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="javax.servlet.jsp.jstl:jstl-api:jar:1.2" target="javax.servlet.jsp.jstl:jstl-api:jar:1.2/javax.servlet.jsp:jsp-api:jar:2.1">
-              <point x="17.75" y="-15.0" />
-              <point x="1597.8687499999996" y="330.0" />
-              <point x="1610.6187499999996" y="330.0" />
-              <point x="-17.75" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-aop:jar:5.1.0.RELEASE">
-              <point x="-14.75" y="-15.0" />
-              <point x="628.4166666666667" y="330.0" />
-              <point x="651.5416666666667" y="330.0" />
-              <point x="24.0" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="org.mybatis.generator:mybatis-generator-core:jar:1.3.2">
-              <point x="10.666666666666742" y="-15.0" />
-              <point x="815.9437499999998" y="500.0" />
-              <point x="1101.6444444444444" y="500.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:5.1.0.RELEASE" target="org.springframework:spring-web:jar:5.1.0.RELEASE">
-              <point x="-30.5" y="-15.0" />
-              <point x="585.5687499999998" y="410.0" />
-              <point x="517.4020833333332" y="410.0" />
-              <point x="517.4020833333332" y="330.0" />
-              <point x="534.0416666666667" y="330.0" />
-              <point x="24.5" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-web:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-beans:jar:5.1.0.RELEASE">
-              <point x="-24.5" y="-15.0" />
-              <point x="485.0416666666667" y="250.0" />
-              <point x="418.5194444444444" y="250.0" />
-              <point x="9.0" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="junit:junit:jar:4.11">
-              <point x="16.000000000000114" y="-15.0" />
-              <point x="821.2770833333332" y="510.0" />
-              <point x="1236.1444444444444" y="510.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-beans:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-core:jar:5.1.0.RELEASE">
-              <point x="0.0" y="-15.0" />
-              <point x="409.5194444444444" y="160.0" />
-              <point x="549.258333333333" y="160.0" />
-              <point x="-18.75" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-expression:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-core:jar:5.1.0.RELEASE">
-              <point x="0.0" y="-15.0" />
-              <point x="765.4166666666667" y="140.0" />
-              <point x="599.258333333333" y="140.0" />
-              <point x="31.25" y="15.0" />
-            </edge>
-            <edge source="commons-fileupload:commons-fileupload:jar:1.3" target="commons-io:commons-io:jar:2.2">
-              <point x="5.6843418860808015E-14" y="-15.0" />
-              <point x="157.0000000000001" y="420.0" />
-              <point x="174.0" y="420.0" />
-              <point x="-26.25" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-beans:jar:5.1.0.RELEASE">
-              <point x="-50.833333333333314" y="-15.0" />
-              <point x="565.2354166666664" y="420.0" />
-              <point x="402.7694444444444" y="420.0" />
-              <point x="402.7694444444444" y="250.0" />
-              <point x="400.5194444444444" y="250.0" />
-              <point x="-9.0" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="org.apache.logging.log4j:log4j-core:jar:2.3">
-              <point x="48.000000000000114" y="-15.0" />
-              <point x="853.2770833333332" y="570.0" />
-              <point x="1729.2437499999996" y="570.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-jdbc:jar:5.1.0.RELEASE" target="org.springframework:spring-tx:jar:5.1.0.RELEASE">
-              <point x="-33.0" y="-15.0" />
-              <point x="305.0416666666667" y="330.0" />
-              <point x="306.54166666666663" y="330.0" />
-              <point x="21.0" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="org.springframework:spring-jdbc:jar:5.1.0.RELEASE">
-              <point x="-31.999999999999886" y="-15.0" />
-              <point x="773.2770833333332" y="540.0" />
-              <point x="338.0416666666667" y="540.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="org.mybatis:mybatis:jar:3.5.2">
-              <point x="-21.333333333333258" y="-15.0" />
-              <point x="783.9437499999998" y="520.0" />
-              <point x="455.0416666666667" y="520.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="org.springframework:spring-web:jar:5.1.0.RELEASE">
-              <point x="-15.999999999999886" y="-15.0" />
-              <point x="789.2770833333332" y="510.0" />
-              <point x="504.0416666666667" y="510.0" />
-              <point x="504.0416666666667" y="330.0" />
-              <point x="485.0416666666667" y="330.0" />
-              <point x="-24.5" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-expression:jar:5.1.0.RELEASE">
-              <point x="44.25" y="-15.0" />
-              <point x="687.4166666666667" y="330.0" />
-              <point x="731.4166666666667" y="330.0" />
-              <point x="-34.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-tx:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-core:jar:5.1.0.RELEASE">
-              <point x="-21.0" y="-15.0" />
-              <point x="264.54166666666663" y="140.0" />
-              <point x="524.258333333333" y="140.0" />
-              <point x="-43.75" y="15.0" />
-            </edge>
-            <edge source="org.glassfish.web:jstl-impl:jar:1.2" target="javax.servlet.jsp.jstl:jstl-api:jar:1.2/javax.servlet:servlet-api:jar:2.5">
-              <point x="-26.333333333333258" y="-15.0" />
-              <point x="1545.8111111111111" y="420.0" />
-              <point x="1517.6409722222218" y="420.0" />
-              <point x="1517.6409722222218" y="330.0" />
-              <point x="1499.3909722222218" y="330.0" />
-              <point x="-23.25" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="org.apache.logging.log4j:log4j-api:jar:2.3">
-              <point x="42.66666666666674" y="-15.0" />
-              <point x="847.9437499999998" y="560.0" />
-              <point x="1672.7437499999996" y="560.0" />
-              <point x="1672.7437499999996" y="420.0" />
-              <point x="1679.9937499999996" y="420.0" />
-              <point x="-21.0" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="javax.servlet.jsp.jstl:jstl-api:jar:1.2">
-              <point x="37.333333333333485" y="-15.0" />
-              <point x="842.6104166666665" y="550.0" />
-              <point x="1637.7277777777776" y="550.0" />
-              <point x="1637.7277777777776" y="410.0" />
-              <point x="1597.8687499999996" y="410.0" />
-              <point x="17.75" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="org.glassfish.web:jstl-impl:jar:1.2">
-              <point x="32.000000000000114" y="-15.0" />
-              <point x="837.2770833333332" y="540.0" />
-              <point x="1572.1444444444446" y="540.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="commons-io:commons-io:jar:2.2">
-              <point x="-42.666666666666515" y="-15.0" />
-              <point x="762.6104166666665" y="560.0" />
-              <point x="243.5" y="560.0" />
-              <point x="243.5" y="420.0" />
-              <point x="226.5" y="420.0" />
-              <point x="26.25" y="15.0" />
-            </edge>
-            <edge source="org.glassfish.web:jstl-impl:jar:1.2" target="javax.servlet.jsp.jstl:jstl-api:jar:1.2">
-              <point x="0.0" y="-15.0" />
-              <point x="1572.1444444444446" y="420.0" />
-              <point x="1562.3687499999996" y="420.0" />
-              <point x="-17.75" y="15.0" />
-            </edge>
-            <edge source="org.glassfish.web:jstl-impl:jar:1.2" target="javax.servlet.jsp.jstl:jstl-api:jar:1.2/javax.servlet.jsp:jsp-api:jar:2.1">
-              <point x="26.333333333333258" y="-15.0" />
-              <point x="1598.4777777777776" y="420.0" />
-              <point x="1642.4937499999996" y="420.0" />
-              <point x="1642.4937499999996" y="330.0" />
-              <point x="1646.1187499999996" y="330.0" />
-              <point x="17.75" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-core:jar:5.1.0.RELEASE">
-              <point x="14.75" y="-15.0" />
-              <point x="657.9166666666667" y="320.0" />
-              <point x="686.9166666666667" y="320.0" />
-              <point x="686.9166666666667" y="150.0" />
-              <point x="586.758333333333" y="150.0" />
-              <point x="18.75" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-aop:jar:5.1.0.RELEASE">
-              <point x="-10.166666666666686" y="-15.0" />
-              <point x="605.9020833333332" y="400.0" />
-              <point x="570.2916666666667" y="400.0" />
-              <point x="570.2916666666667" y="330.0" />
-              <point x="603.5416666666667" y="330.0" />
-              <point x="-24.0" y="15.0" />
-            </edge>
-            <edge source="junit:junit:jar:4.11" target="junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="log4j:log4j:jar:1.2.17">
-              <point x="-53.333333333333144" y="-15.0" />
-              <point x="751.9437499999999" y="580.0" />
-              <point x="30.5" y="580.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-aop:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-beans:jar:5.1.0.RELEASE">
-              <point x="-24.0" y="-15.0" />
-              <point x="603.5416666666667" y="230.0" />
-              <point x="454.5194444444444" y="230.0" />
-              <point x="45.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-jdbc:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-core:jar:5.1.0.RELEASE">
-              <point x="0.0" y="-15.0" />
-              <point x="338.0416666666667" y="150.0" />
-              <point x="536.758333333333" y="150.0" />
-              <point x="-31.25" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="commons-fileupload:commons-fileupload:jar:1.3">
-              <point x="-47.999999999999886" y="-15.0" />
-              <point x="757.2770833333332" y="570.0" />
-              <point x="157.0" y="570.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-expression:jar:5.1.0.RELEASE">
-              <point x="30.5" y="-15.0" />
-              <point x="646.5687499999998" y="410.0" />
-              <point x="799.4166666666667" y="410.0" />
-              <point x="34.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-core:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-core:jar:5.1.0.RELEASE/org.springframework:spring-jcl:jar:5.1.0.RELEASE">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-aop:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-core:jar:5.1.0.RELEASE">
-              <point x="24.0" y="-15.0" />
-              <point x="651.5416666666667" y="160.0" />
-              <point x="574.258333333333" y="160.0" />
-              <point x="6.25" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-tx:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-beans:jar:5.1.0.RELEASE">
-              <point x="21.0" y="-15.0" />
-              <point x="306.54166666666663" y="240.0" />
-              <point x="364.5194444444444" y="240.0" />
-              <point x="-45.0" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="javax.servlet:jstl:jar:1.2">
-              <point x="-26.666666666666515" y="-15.0" />
-              <point x="778.6104166666665" y="530.0" />
-              <point x="372.5416666666667" y="530.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-jdbc:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-beans:jar:5.1.0.RELEASE">
-              <point x="33.0" y="-15.0" />
-              <point x="371.0416666666667" y="330.0" />
-              <point x="367.0194444444444" y="330.0" />
-              <point x="367.0194444444444" y="250.0" />
-              <point x="382.5194444444444" y="250.0" />
-              <point x="-27.0" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="org.springframework:spring-webmvc:jar:5.1.0.RELEASE">
-              <point x="-10.666666666666515" y="-15.0" />
-              <point x="794.6104166666665" y="500.0" />
-              <point x="616.0687499999998" y="500.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="org.apache.logging.log4j:log4j-core:jar:2.3" target="org.apache.logging.log4j:log4j-api:jar:2.3">
-              <point x="0.0" y="-15.0" />
-              <point x="1729.2437499999996" y="420.0" />
-              <point x="1721.9937499999996" y="420.0" />
-              <point x="21.0" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="org.mybatis:mybatis-spring:jar:1.3.0">
-              <point x="53.33333333333337" y="-15.0" />
-              <point x="858.6104166666664" y="580.0" />
-              <point x="1854.7437499999996" y="580.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="com.mchange:c3p0:jar:0.9.5">
-              <point x="5.333333333333485" y="-15.0" />
-              <point x="810.6104166666665" y="490.0" />
-              <point x="965.6444444444444" y="490.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="javax.servlet.jsp.jstl:jstl-api:jar:1.2" target="javax.servlet.jsp.jstl:jstl-api:jar:1.2/javax.servlet:servlet-api:jar:2.5">
-              <point x="-17.75" y="-15.0" />
-              <point x="1562.3687499999996" y="330.0" />
-              <point x="1545.8909722222218" y="330.0" />
-              <point x="23.25" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-context:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-beans:jar:5.1.0.RELEASE">
-              <point x="-44.25" y="-15.0" />
-              <point x="598.9166666666667" y="320.0" />
-              <point x="569.0416666666667" y="320.0" />
-              <point x="569.0416666666667" y="240.0" />
-              <point x="436.5194444444444" y="240.0" />
-              <point x="27.0" y="15.0" />
-            </edge>
-            <edge source="com.mchange:c3p0:jar:0.9.5" target="com.mchange:c3p0:jar:0.9.5/com.mchange:mchange-commons-java:jar:0.2.9">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="org.springframework:spring-context:jar:5.1.0.RELEASE">
-              <point x="-5.3333333333332575" y="-15.0" />
-              <point x="799.9437499999998" y="490.0" />
-              <point x="704.9020833333332" y="490.0" />
-              <point x="704.9020833333332" y="400.0" />
-              <point x="672.6666666666667" y="400.0" />
-              <point x="29.5" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-web:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-core:jar:5.1.0.RELEASE">
-              <point x="24.5" y="-15.0" />
-              <point x="534.0416666666667" y="250.0" />
-              <point x="557.7694444444444" y="250.0" />
-              <point x="557.7694444444444" y="160.0" />
-              <point x="561.758333333333" y="160.0" />
-              <point x="-6.25" y="15.0" />
-            </edge>
-            <edge source="org.springframework:spring-webmvc:jar:5.1.0.RELEASE" target="org.springframework:spring-context:jar:5.1.0.RELEASE/org.springframework:spring-core:jar:5.1.0.RELEASE">
-              <point x="50.833333333333314" y="-15.0" />
-              <point x="666.9020833333332" y="420.0" />
-              <point x="843.9166666666667" y="420.0" />
-              <point x="843.9166666666667" y="130.0" />
-              <point x="611.758333333333" y="130.0" />
-              <point x="43.75" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="org.springframework:spring-tx:jar:5.1.0.RELEASE">
-              <point x="-37.333333333333144" y="-15.0" />
-              <point x="767.9437499999999" y="550.0" />
-              <point x="264.54166666666663" y="550.0" />
-              <point x="-21.0" y="15.0" />
-            </edge>
-            <edge source="com.neuedu:servlet-spring:1.0-SNAPSHOT" target="taglibs:standard:jar:1.1.2">
-              <point x="26.666666666666742" y="-15.0" />
-              <point x="831.9437499999998" y="530.0" />
-              <point x="1471.1444444444446" y="530.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.0845435684647303" x="2829.0" y="651.0" />
-          <SelectedNodes>
-            <node>commons-io:commons-io:jar:2.2</node>
-            <node>com.neuedu:servlet-spring:1.0-SNAPSHOT</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0.jar!/org/mybatis/spring/SqlSessionTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/dao/OrderMapper.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.2/mybatis-3.5.2.jar!/org/apache/ibatis/binding/MapperProxy.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="215">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.2/mybatis-3.5.2.jar!/org/apache/ibatis/binding/MapperMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/MyBatisConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="76" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="210">
+          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
+        <state relative-caret-position="-189" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/consts/Const.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/dao/ProductMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-737" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/controller/CategoryCollector.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/exception/MyException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="12" column="49" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/error.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/dao/CategoryMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com/neuedu/dao/CategoryMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="987">
-          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/filter/UserFilter.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="176" column="24" lean-forward="true" selection-start-line="176" selection-start-column="24" selection-end-line="176" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com/neuedu/dao/IUserDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com/neuedu/dao/UserInfoMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="88" selection-start-line="88" selection-end-line="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.0.RELEASE/spring-webmvc-5.1.0.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7980">
-          <caret line="435" selection-start-line="435" selection-end-line="435" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.0.RELEASE/spring-webmvc-5.1.0.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8736">
-          <caret line="497" selection-start-line="497" selection-end-line="497" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.0.RELEASE/spring-web-5.1.0.RELEASE.jar!/org/springframework/web/filter/OncePerRequestFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/exception/MyExceptionHandlerResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/interceptors/AuthorityInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="45" column="62" selection-start-line="45" selection-start-column="62" selection-end-line="45" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/service/ICategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/controller/UserCollector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/dao/CartMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/service/Impl/CategoryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/service/IManagerService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/service/Impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/service/Impl/ManagerServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="312">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -1660,6 +1086,188 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/jstl/1.2/jstl-1.2.jar!/org/apache/taglibs/standard/tag/common/core/ForEachSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/jstl/1.2/jstl-1.2.jar!/org/apache/taglibs/standard/tag/rt/core/ForEachTag.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.0.RELEASE/spring-webmvc-5.1.0.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/pojo/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2919">
+          <caret line="153" column="33" selection-start-line="153" selection-start-column="33" selection-end-line="153" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.0.RELEASE/spring-web-5.1.0.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/interceptors/AuthorityInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-651">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/exception/MyExceptionHandlerResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/pojo/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2625">
+          <caret line="83" column="27" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/pojo/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-520" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/MyBatisConfig.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/controller/UserCollector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="51" column="19" lean-forward="true" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/dao/CategoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/dao/PayInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/dao/UserInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/dao/ProductMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/categoryupdate.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/categoryadd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/neuedu/dao/UserInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/neuedu/dao/ProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="81" column="10" lean-forward="true" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/service/Impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="79" column="59" selection-start-line="79" selection-start-column="59" selection-end-line="79" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/service/Impl/CategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="42" column="35" lean-forward="true" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/service/Impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/controller/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="76" column="58" selection-start-line="76" selection-start-column="58" selection-end-line="76" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1668,80 +1276,126 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/service/IUserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        <state relative-caret-position="336">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/productlist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/categorylist.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="37" column="12" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="37" selection-end-column="12" />
+        <state relative-caret-position="840">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/dao/UserInfoMapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/productadd.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+        <state relative-caret-position="525">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/pojo/Category.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2352">
-          <caret line="153" column="33" selection-start-line="153" selection-start-column="33" selection-end-line="153" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/controller/CategoryController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/service/IProductService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/categoryupdate.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/service/ICategoryService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="462">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/neuedu/dao/CategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/userinfoupdate.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" selection-start-line="13" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/userinfolist.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
-          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/pojo/UserInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/userinfoadd.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1050">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="273">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/managerlist.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/productupdate.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="903">
-          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+        <state relative-caret-position="315">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/controller/ManagerController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/controller/UploadController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="-516" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/upload.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="46" column="42" lean-forward="true" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/annotation/AnnotationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="196" column="17" selection-start-line="196" selection-start-column="17" selection-end-line="196" selection-end-column="17" />
         </state>
       </provider>
     </entry>

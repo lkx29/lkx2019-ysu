@@ -13,6 +13,8 @@
 <body>
 
 <h1>欢迎,${userinfo.username}登录</h1>
+<br>
+<a href="/user/category/find">类别管理</a>
 
 </body>
 </html>

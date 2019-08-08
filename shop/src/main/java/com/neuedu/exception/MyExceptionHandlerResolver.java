@@ -26,7 +26,7 @@ public class MyExceptionHandlerResolver implements HandlerExceptionResolver {
         MyException myException=(MyException) ex;
         String error= myException.getDirector();
 
-        ModelAndView modelAndView=new ModelAndView();
+       ModelAndView modelAndView=new ModelAndView();
         modelAndView.setViewName("error");
         Map<String,Object> model= modelAndView.getModel();
         model.put("es","es1");

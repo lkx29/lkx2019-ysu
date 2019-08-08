@@ -22,11 +22,6 @@
     父类id<input type="text" name="parentId" value="${category.parentId}"><br/>
     状态<input type="text" name="status" value="${category.status}"><br/>
     <input type="submit" value="修改"><br/>
-
-
-
-
-
 </form>
 </body>
 </html>

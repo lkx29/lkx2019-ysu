@@ -30,17 +30,17 @@ public class CategoryController {
     }
 
     @RequestMapping(value = "update/{id}",method = RequestMethod.GET)
-    public String update(@PathVariable("id")Integer categoryId, HttpServletRequest request){
+    public String update(@PathVariable("id")Integer categoryId, HttpServletRequest request) {
 
-        Category category=categoryService.findCategoryById(categoryId);
+        Category category = categoryService.findCategoryById(categoryId);
 
-        request.setAttribute("category",category);
+        request.setAttribute("category", category);
 
 
         return "categoryupdate";
 
-
-    }@RequestMapping(value = "update/{id}",method = RequestMethod.POST)
+    }
+    @RequestMapping(value = "update/{id}",method = RequestMethod.POST)
     public String update(Category category, HttpServletRequest request, HttpServletResponse response) throws UnsupportedEncodingException {
 
             request.setCharacterEncoding("UTF-8");
@@ -53,5 +53,28 @@ public class CategoryController {
         return "categoryupdate";
 
 
+    }
+    @RequestMapping(value = "add",method = RequestMethod.GET)
+    public String add(HttpSession session){
+
+        return "categoryadd";
+    }
+    @RequestMapping(value = "add",method = RequestMethod.POST)
+    public String add(Category category, HttpServletRequest request, HttpServletResponse response) throws UnsupportedEncodingException {
+
+        request.setCharacterEncoding("UTF-8");
+
+        response.setContentType("text/html;charset=UTF-8");
+        int count =categoryService.addCategory(category);
+        if (count>0){
+            return "redirect:/user/category/find";
+        }
+        return "categoryadd";
+    }
+    @RequestMapping("delete/{id}")
+    public String delete(Category category){
+        int categoryId=category.getId();
+        int count=categoryService.deleteCategory(categoryId);
+        return "redirect:/user/category/find";
     }
 }

@@ -4,6 +4,7 @@ import com.neuedu.consts.Const;
 import com.neuedu.pojo.UserInfo;
 import com.neuedu.service.IUserService;
 import com.neuedu.service.Impl.UserServiceImpl;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;
@@ -19,6 +20,7 @@ import java.io.IOException;
 public class AuthorityInterceptor implements HandlerInterceptor {
 
 
+    @Autowired
     private IUserService userService;
 
     @Override
@@ -58,7 +60,6 @@ public class AuthorityInterceptor implements HandlerInterceptor {
                 }
             }
         }
-
         return true;
        //false:拦截请求 true:不会拦截请求
     }

@@ -29,17 +29,16 @@
             <th>${category.status}</th>
             <th>${category.createTime}</th>
             <th>${category.updateTime}</th>
-            <th><a href="update/${category.id}">修改</a> <a href="">删除</a></th>
+            <th><a href="update/${category.id}">修改</a> <a href="delete/${category.id}">删除</a></th>
         </tr>
 
         </c:forEach>
-
 
     </table>
 
 </head>
 <body>
-
+<button type="submit" value="添加"><a href="add" >添加</a></button>
 
 
 </body>
